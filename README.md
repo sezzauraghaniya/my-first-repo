@@ -5,3 +5,5 @@ NPM : 2306207291
 Kelas : PBP F
 
 Hobi : Tidur
+
+Jurusan : Sistem Informasi
